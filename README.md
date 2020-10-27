@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sumit Sharma !</h1>
-<h3 align="center">A passionate Full Stack Developer from India, Freelancer at Upwork, Mentor on @thebitcode010. Beside's programming, I enjoy Stock Market Funadamental Analysis and Videography and Editing.</h3>
+<h3 align="center">A passionate Full Stack Developer 🚀 from India, Freelancer 👨🏽‍💻 at Upwork, Mentor 👨🏽‍💼 on @thebitcode010. Beside's programming, I enjoy Stock Market Funadamental Analysis and Videography and Editing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitaccess007&label=Profile%20views&color=0e75b6&style=flat" alt="sumitaccess007" /> </p>
 
